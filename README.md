@@ -5,7 +5,7 @@ Run Game
 1. clone repo
 2. execute ```npm install``` rebuild
 3. run dev server ```npm run dev```
-4. open project IDE 
+4. open browser ```http://localhost:5173```
 
 
 ## Production
