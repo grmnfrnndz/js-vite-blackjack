@@ -30,6 +30,7 @@ export const turnoComputadora = ( puntosMinimos, puntosHTML, divCartasComputador
         // divCartasComputadora.append( imgCarta );
 
         const imgCarta = crearCartaHTML(carta);
+        divCartasComputadora.append(imgCarta);
 
         if( puntosMinimos > 21 ) {
             break;
